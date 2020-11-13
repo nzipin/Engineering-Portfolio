@@ -1,5 +1,5 @@
 ## Noah Zipin 
-LinkedIn: [linkedin.com/in/noahzipin/](linkedin.com/in/noahzipin/)
+LinkedIn: [click here](https://www.linkedin.com/in/noahzipin/)
 
 Email: noahzipin@gmail.com
 # Welcome
