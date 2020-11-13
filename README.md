@@ -1,6 +1,7 @@
 ## Noah Zipin 
 # Engineering Portfolio
 LinkedIn: linkedin.com/in/noahzipin/ 
+
 Email: noahzipin@gmail.com
 
 Hello! My name is Noah Zipin and I am currently a second-year student pursuing a Mechanical Engineering degree at the University of Maryland, College Park. This portfolio is designed to supplement my resume and demonstrate my practical experience in engineering. 
