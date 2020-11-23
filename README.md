@@ -13,4 +13,5 @@ I have had the opportunity to participate in many projects, both in and out of t
 It is my hope that this will allow you to better assess how my skills can be applied to your company. Thank you for your time and consideration!
 
 Please access the portfolio by clicking the file titled, "Noah Zipin Engineering Portfolio"
+NOTE: if you would like to access hyperlinks in the portfolio, please download the document
 
