@@ -14,5 +14,5 @@ It is my hope that this will allow you to better assess how my skills can be app
 
 Please access the portfolio by clicking the file titled, "Noah Zipin Engineering Portfolio"
 
-NOTE: if you would like to access hyperlinks in the portfolio, please download the document
+(NOTE: if you would like to access hyperlinks in the portfolio, please download the document)
 
