@@ -1,2 +1,19 @@
-Self Balancing Robot:
+## Self Balancing Robot Project:
+
+I've created an in-depth Youtube Series that showcases my 2-wheeled self balancing robot. Each video dives deep into the engineering process. I explain the reasons behind every decision, discuss the engineering theroy, and teach the audience how to create a project like this for themselves. 
+
 [Part 1 - Mechancial Design](https://youtu.be/M7D-TyRbdDE)
+[Part 2 - Electronics](https://youtu.be/lMUIi5SMWUk)
+[Part 3 - Control Theroy & Code](https://youtu.be/BPNc3-46LlU)
+[Part 4 - Demonstration & Summary](https://youtu.be/PNKXGorAnBg)
+
+## Soft Robotics Project
+
+Here is a brief video that showcases the single actuator from Phase I of my project. 
+
+[Single soft actuator](https://youtu.be/M8f4WjTySG0}
+
+## VEX Robot Demonstration
+
+This video is the reveal video for my team's competition robot, which was released just before we competed in the "VEX Worlds" Champsionship against over 50 other countries. 
+[VEX Team 934Z Reveal Video](https://youtu.be/FwU0mx70mjg)
