@@ -11,9 +11,10 @@ I've created an in-depth Youtube Series that showcases my 2-wheeled self balanci
 
 Here is a brief video that showcases the single actuator from Phase I of my project. 
 
-[Single soft actuator](https://youtu.be/M8f4WjTySG0)
+click here: [Single soft actuator](https://youtu.be/M8f4WjTySG0)
 
 ## VEX Robot Demonstration
 
 This video is the reveal video for my team's competition robot, which was released just before we competed in the "VEX Worlds" Champsionship against over 50 other countries. 
-[VEX Team 934Z Reveal Video](https://youtu.be/FwU0mx70mjg)
+
+click here: [VEX Team 934Z Reveal Video](https://youtu.be/FwU0mx70mjg)
