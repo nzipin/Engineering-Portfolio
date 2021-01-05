@@ -1,0 +1,2 @@
+Self Balancing Robot:
+[Part 1 - Mechancial Design](https://youtu.be/M7D-TyRbdDE)
