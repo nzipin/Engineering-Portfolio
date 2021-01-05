@@ -16,5 +16,7 @@ It is my hope that this will allow you to better assess how my skills can be app
 
 **Please access my resume by clicking the file titled, "Noah Zipin Resume.pdf"**
 
+**To see Project Demonstrations, click the file titled "Links to Project Demonstrations.md**
+
 (NOTE: if you would like to access hyperlinks in the portfolio, please download the document)
 
