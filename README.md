@@ -12,11 +12,11 @@ I'm interested in the field of robotics and how it can solve the world's Grand C
 I have had the opportunity to participate in many projects, both in and out of the classroom, which have not only improved my technical skills but also my ability to think critically and solve problems efficiently. 
 It is my hope that this will allow you to better assess how my skills can be applied to your company. Thank you for your time and consideration!
 
-**Please access the portfolio by clicking the file titled, "Noah Zipin Engineering Portfolio.pdf"**
+**Please access the ***portfolio*** **by clicking the file titled, "Noah Zipin Engineering Portfolio.pdf"**
 
-**Please access my resume by clicking the file titled, "Noah Zipin Resume.pdf"**
+**Please access my ***resume*** **by clicking the file titled, "Noah Zipin Resume.pdf"**
 
-**To see Project Demonstrations, click the file titled "Links to Project Demonstrations.md**
+**To see ***project demonstrations,*** **click the file titled "Links to Project Demonstrations.md"**
 
 (NOTE: if you would like to access hyperlinks in the portfolio, please download the document)
 
