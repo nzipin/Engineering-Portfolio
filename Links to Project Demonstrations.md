@@ -1,6 +1,6 @@
 ## Self Balancing Robot Project:
 
-I've created an in-depth Youtube Series that showcases my 2-wheeled self balancing robot. Each video dives deep into the engineering process. I explain the reasons behind every decision, discuss the engineering theroy, and teach the audience how to create a project like this for themselves. 
+I've created an in-depth Youtube Series that showcases my 2-wheeled self balancing robot. Each video dives deep into the engineering design process. I explain the reasons behind every decision, discuss the engineering theroy, and teach the audience how to create a project like this for themselves. 
 
 - [Part 1 - Mechancial Design](https://youtu.be/M7D-TyRbdDE)
 - [Part 2 - Electronics](https://youtu.be/lMUIi5SMWUk)
