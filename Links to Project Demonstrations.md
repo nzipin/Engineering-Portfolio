@@ -11,7 +11,7 @@ I've created an in-depth Youtube Series that showcases my 2-wheeled self balanci
 
 Here is a brief video that showcases the single actuator from Phase I of my project. 
 
-[Single soft actuator](https://youtu.be/M8f4WjTySG0}
+[Single soft actuator](https://youtu.be/M8f4WjTySG0)
 
 ## VEX Robot Demonstration
 
