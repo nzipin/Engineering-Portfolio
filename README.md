@@ -16,7 +16,7 @@ Please access the ***portfolio*** by clicking the file titled, **"Noah Zipin Eng
 
 Please access my ***resume*** by clicking the file titled, **"Noah Zipin Resume.pdf"**
 
-To see ***project demonstrations,*** click the file titled **"Project Demonstration Links.md"**
+To see ***project demonstrations,*** click the file titled **"Project Demonstrations Links.md"**
 
 (NOTE: if you would like to access hyperlinks in the portfolio, please download the document)
 
