@@ -13,7 +13,7 @@ It is my hope that this will allow you to better assess how my skills can be app
 
 Please access the ***portfolio*** by clicking the file titled, **"Noah Zipin Engineering Portfolio.pdf"**
 
-Please access my ***resume*** by clicking the file titled, **"Noah Zipin Resume.pdf"**
+Please access my ***resume*** by clicking the file titled, **"Zipin Fall 21.pdf"**
 
 To see ***project demonstrations,*** click the file titled **"Project Demonstrations Links.md"**
 
