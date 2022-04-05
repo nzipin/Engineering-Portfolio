@@ -1,3 +1,8 @@
+## Pong Robot
+This was an open-ended project for a digital electronics course at the University of Maryland. For my independent project, I created a mechatronic system that you can play Atari's PONG with. 
+
+Watch here: [PONG Robot](https://youtu.be/KDVanA2oXqQ)
+
 ## Body-Driven Prosthetic Finger:
 Here is a video that showcases the first version of my prosthetic finger project. It outlines design goals, development, and plans for improvement. 
 
