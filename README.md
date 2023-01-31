@@ -5,7 +5,7 @@ Email: noahzipin@gmail.com
 # Welcome
 
 
-Hello! My name is Noah Zipin and I am a junior Mechanical Engineering student at the University of Maryland, College Park. This portfolio is designed to supplement my resume and demonstrate my practical experience in engineering. 
+Hello! My name is Noah Zipin and I am a senior Mechanical Engineering student at the University of Maryland, College Park. This portfolio is designed to supplement my resume and demonstrate my practical experience in engineering. 
 
 
 I have had the opportunity to participate in many projects, both in and out of the classroom, which have not only improved my technical skills but also my ability to think critically and solve problems efficiently. 
